@@ -96,3 +96,14 @@ font-size: 0;
   color:#F15B31;
   font-weight: 700;
 }
+
+.divMessages{
+  border: 2px solid black;
+  height: 25px;
+  width: 190px;
+}
+
+.messages{
+  margin-block-start: 0;
+  margin-block-end: 0 ;
+}
